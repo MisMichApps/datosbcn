@@ -3456,7 +3456,7 @@
  },
  {
   "Marca": "Persan",
-  "CN": "505363",
+  "CN": "505364",
   "Nombre": "PeptiNutril",
   "Sabor": "Vainilla Cookies",
   "Tipo": "HiperHiper",
@@ -4129,7 +4129,7 @@
  },
  {
   "Marca": "Nutrisens",
-  "CN": "505091",
+  "CN": "505291",
   "Nombre": "peptisens",
   "Sabor": "Capuchino",
   "Tipo": "Malabsorcion",
@@ -4147,7 +4147,7 @@
  },
  {
   "Marca": "Nutrisens",
-  "CN": "505092",
+  "CN": "505292",
   "Nombre": "peptisens",
   "Sabor": "Multisabor",
   "Tipo": "Malabsorcion",
@@ -4729,7 +4729,7 @@
  },
  {
   "Marca": "Fresenius Kabi",
-  "CN": "504223",
+  "CN": "504723",
   "Nombre": "Fresubin Protein Energy Drink",
   "Sabor": "Multisabor",
   "Tipo": "HiperHiper",
